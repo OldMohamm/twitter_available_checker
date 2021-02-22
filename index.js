@@ -31,7 +31,7 @@ const checking = (email) => new Promise((resolve, reject) => {
 });
 // scan function
 (async () => {
-    console.log(chalk.red('Made By 0nlymohammed / @2088'));
+    console.log(chalk.red('Made By 0nlymohammed'));
     const file = ("./list.txt")
     const getak = await fs.readFile(file, 'utf8');
     let listemail = [];
