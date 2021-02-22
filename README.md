@@ -20,5 +20,5 @@ and it will start checking.
 
 
 enjoy. <br>
-instagram : @9wmm <br>
-discord : 9wmm#5924
+instagram : @0nlymohammed <br>
+twitter : 0nlymohammed
