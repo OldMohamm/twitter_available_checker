@@ -29,9 +29,9 @@ const checking = (email) => new Promise((resolve, reject) => {
         reject(err)
     })
 });
-// فنكشن الفحص
+// scan function
 (async () => {
-    console.log(chalk.red('Made By @9wmm / @2088'));
+    console.log(chalk.red('Made By 0nlymohammed / @2088'));
     const file = ("./list.txt")
     const getak = await fs.readFile(file, 'utf8');
     let listemail = [];
